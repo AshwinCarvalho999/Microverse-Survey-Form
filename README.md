@@ -7,9 +7,9 @@
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Html
+- Css
+- VScode
 
 ## Getting Started
 
