@@ -2,7 +2,7 @@
 
 # Trial Survey form
 
-> Here you will see my Pre Enrolment Survey form where I learn how to collabrate with other micronauts and do practice for pair programming projects.hello
+> Here you will see my Pre Enrolment Survey form where I learn how to collabrate with other micronauts and do practice for pair programming projects.
 
 ## Built With
 
